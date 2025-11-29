@@ -84,8 +84,8 @@ for i=1:num subplot(num,1,i); plot(t,demod(i,:)); end
 
 # TABULAR COLUMN
 
-![WhatsApp Image 2025-11-29 at 13 11 47_6dafe522](https://github.com/user-attachments/assets/3228b08b-6c49-46fd-b4bf-e8e4da986935)
 ![WhatsApp Image 2025-11-29 at 13 11 32_c7c3f34a](https://github.com/user-attachments/assets/33328a96-51f8-4950-96cc-7667e341f494)
+![WhatsApp Image 2025-11-29 at 13 11 47_6dafe522](https://github.com/user-attachments/assets/3228b08b-6c49-46fd-b4bf-e8e4da986935)
 
 
 # RESULT 
