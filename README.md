@@ -82,10 +82,11 @@ for i=1:num subplot(num,1,i); plot(t,demod(i,:)); end
 <img width="1152" height="560" alt="image" src="https://github.com/user-attachments/assets/a97b11e6-fe1a-4ee6-9f6f-76f2b5c40bef" />
 
 
-# MANUAL CALCULATION
+# TABULAR COLUMN
 
-![1](https://github.com/user-attachments/assets/54a0f188-85c9-4aa9-8a93-750740e80b23)
-![2](https://github.com/user-attachments/assets/a38e424f-a6a2-44ea-ac65-4a4942cd4f4d)
+![WhatsApp Image 2025-11-29 at 13 11 47_6dafe522](https://github.com/user-attachments/assets/3228b08b-6c49-46fd-b4bf-e8e4da986935)
+![WhatsApp Image 2025-11-29 at 13 11 32_c7c3f34a](https://github.com/user-attachments/assets/33328a96-51f8-4950-96cc-7667e341f494)
+
 
 # RESULT 
 
