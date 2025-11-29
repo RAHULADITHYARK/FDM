@@ -75,11 +75,12 @@ for i=1:num subplot(num,1,i); plot(t,demod(i,:)); end
 ```
 # OUTPUT
 
-<img width="1366" height="616" alt="image" src="https://github.com/user-attachments/assets/c044b2cb-ad73-44ac-b7dc-44d8fa63ec4a" />
+<img width="610" height="460" alt="image" src="https://github.com/user-attachments/assets/95c25bfa-4de1-41a5-8dab-601043b13dac" />
 
-<img width="1366" height="616" alt="image" src="https://github.com/user-attachments/assets/a41ea13b-2816-4749-9521-9b83cd7224f9" />
+<img width="610" height="460" alt="image" src="https://github.com/user-attachments/assets/80568193-5036-4f01-8418-055254c6c3ec" />
 
-<img width="1366" height="616" alt="image" src="https://github.com/user-attachments/assets/97fafe97-d0ff-4ba8-8f68-ab803c2bb935" />
+<img width="1152" height="560" alt="image" src="https://github.com/user-attachments/assets/a97b11e6-fe1a-4ee6-9f6f-76f2b5c40bef" />
+
 
 # MANUAL CALCULATION
 
